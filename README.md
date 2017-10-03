@@ -1,4 +1,5 @@
 #Tạp chí Trí tuệ Nhân tạo Số 1 (03-10-2017)
+
 Trong số 2 này, Tạp chí Trí tuệ Nhân tạo đánh dấu những thay đổi lớn trong định hướng xây dựng nội dung. Từ số thứ 2 trở đi, Tạp chí Trí tuệ Nhân tạo sẽ tập trung vào việc cung cấp những thông tin, kiến thức bổ ích chuyên sâu về Artificial Intelligence nói chung và Machine Learning nói riêng tới những bạn đọc có sự quan tâm tới lĩnh vực này.
 Tạp chí sẽ cấu thành từ 4 chuyên mục nhỏ:
 1. Góc nhìn chuyên gia: Giới thiệu các bài viết của các chuyên gia Artificial Intelligence và các lĩnh vực liên quan về các vấn đề trong ngành.
